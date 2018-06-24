@@ -2,7 +2,7 @@
 
 训练产生的H5文件和checkpoints保存在百度云网盘中。
 
-[链接](链接: https://pan.baidu.com/s/1-CZ8s9Cbs5Ks7tnxKLkTlg)
+[链接](https://pan.baidu.com/s/1-CZ8s9Cbs5Ks7tnxKLkTlg)
 
 密码: ty1d
 
